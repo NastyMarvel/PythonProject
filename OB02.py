@@ -1,6 +1,4 @@
-def generate_numbers():
-    return list(range(10))
-# Другой код
+
 
 from my_module import generate_numbers  # Предположим, что функция находится в модуле 'my_module'
 
